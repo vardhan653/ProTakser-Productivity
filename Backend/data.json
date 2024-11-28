@@ -1,0 +1,4 @@
+[
+    { "id": 1, "title": "Learn React", "content": "Understand components and hooks." },
+    { "id": 2, "title": "Build a Portfolio", "content": "Showcase your projects." }
+]
