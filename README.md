@@ -38,5 +38,5 @@ Make sure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ProTasker.git
+git clone https://github.com/vardhan653/ProTasker.git
 cd ProTasker
