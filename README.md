@@ -5,7 +5,7 @@ ProTasker is a beginner-friendly web-based productivity application designed to 
 
 ---
 
-## Features 🚀
+## Features 
 
 - **Task Management**: Add, view, edit, and delete tasks easily.
 - **Note Taking**: Create and manage notes to store important information.
@@ -15,7 +15,7 @@ ProTasker is a beginner-friendly web-based productivity application designed to 
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 | Frontend        | Backend          |
 |-----------------|------------------|
@@ -24,7 +24,7 @@ ProTasker is a beginner-friendly web-based productivity application designed to 
 
 ---
 
-## Installation 💻
+## Installation 
 
 ### Prerequisites
 Make sure you have the following installed:
